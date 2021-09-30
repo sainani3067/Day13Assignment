@@ -1,0 +1,16 @@
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\obj\Debug\net5.0\Day13Assignment.csproj.AssemblyReference.cache
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\obj\Debug\net5.0\Day13Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\obj\Debug\net5.0\Day13Assignment.AssemblyInfoInputs.cache
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\obj\Debug\net5.0\Day13Assignment.AssemblyInfo.cs
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\obj\Debug\net5.0\Day13Assignment.csproj.CoreCompileInputs.cache
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\bin\Debug\net5.0\Day13Assignment.exe
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\bin\Debug\net5.0\Day13Assignment.deps.json
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\bin\Debug\net5.0\Day13Assignment.runtimeconfig.json
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\bin\Debug\net5.0\Day13Assignment.runtimeconfig.dev.json
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\bin\Debug\net5.0\Day13Assignment.dll
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\bin\Debug\net5.0\ref\Day13Assignment.dll
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\bin\Debug\net5.0\Day13Assignment.pdb
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\obj\Debug\net5.0\Day13Assignment.dll
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\obj\Debug\net5.0\ref\Day13Assignment.dll
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\obj\Debug\net5.0\Day13Assignment.pdb
+C:\Users\SAI KUMAR\source\repos\Day13Assignment\obj\Debug\net5.0\Day13Assignment.genruntimeconfig.cache
